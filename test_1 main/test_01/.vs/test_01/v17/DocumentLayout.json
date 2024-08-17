@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|c:\\users\\b4byf\\source\\repos\\test_1 main\\test_01\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecutgrade.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:pagecutgrade.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:pagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecutgrade.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:pagecutgrade.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2547BF91-7DE4-4B36-A902-65A7780BE628}|test_01.vbproj|solutionrelative:pagecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.vb",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\login.vb",
+              "RelativeDocumentMoniker": "login.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\login.vb",
+              "RelativeToolTip": "login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T14:06:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\login.vb",
+              "RelativeDocumentMoniker": "login.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\login.vb [Design]",
+              "RelativeToolTip": "login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T14:04:01.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "search.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\search.vb",
+              "RelativeDocumentMoniker": "search.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\search.vb [Design]",
+              "RelativeToolTip": "search.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:59:39.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.vb",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\register.vb",
+              "RelativeDocumentMoniker": "register.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\register.vb",
+              "RelativeToolTip": "register.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:55:08.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "register.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\register.vb",
+              "RelativeDocumentMoniker": "register.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\register.vb [Design]",
+              "RelativeToolTip": "register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:53:07.004Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pagecutgrade.vb",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecutgrade.vb",
+              "RelativeDocumentMoniker": "pagecutgrade.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecutgrade.vb",
+              "RelativeToolTip": "pagecutgrade.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:01:28.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pagecutgrade.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecutgrade.vb",
+              "RelativeDocumentMoniker": "pagecutgrade.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecutgrade.vb [Design]",
+              "RelativeToolTip": "pagecutgrade.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T12:59:41.199Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pagecalculator.vb",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecalculator.vb",
+              "RelativeDocumentMoniker": "pagecalculator.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecalculator.vb",
+              "RelativeToolTip": "pagecalculator.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T12:44:04.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pagecalculator.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecalculator.vb",
+              "RelativeDocumentMoniker": "pagecalculator.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\pagecalculator.vb [Design]",
+              "RelativeToolTip": "pagecalculator.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T12:35:20.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T12:34:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\b4byf\\source\\repos\\test_1 main\\test_01\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T12:27:26.937Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

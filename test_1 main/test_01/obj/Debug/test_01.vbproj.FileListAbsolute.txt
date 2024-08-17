@@ -1,0 +1,35 @@
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.vbproj.AssemblyReference.cache
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.Resources.resources
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.pagecalculator.resources
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.vbproj.GenerateResource.cache
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.vbproj.CoreCompileInputs.cache
+C:\Users\b4byf\source\repos\test_01\bin\Debug\test_01.exe.config
+C:\Users\b4byf\source\repos\test_01\bin\Debug\test_01.exe
+C:\Users\b4byf\source\repos\test_01\bin\Debug\test_01.pdb
+C:\Users\b4byf\source\repos\test_01\bin\Debug\test_01.xml
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.Form1.resources
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.exe
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.xml
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.pdb
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.pagecutgrade.resources
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.register.resources
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.login.resources
+C:\Users\b4byf\source\repos\test_01\obj\Debug\test_01.search.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\bin\Debug\student.accdb
+C:\Users\b4byf\source\repos\test_1 main\test_01\bin\Debug\test_01.exe.config
+C:\Users\b4byf\source\repos\test_1 main\test_01\bin\Debug\test_01.exe
+C:\Users\b4byf\source\repos\test_1 main\test_01\bin\Debug\test_01.pdb
+C:\Users\b4byf\source\repos\test_1 main\test_01\bin\Debug\test_01.xml
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.vbproj.AssemblyReference.cache
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.login.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.Resources.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.Form1.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.pagecalculator.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.pagecutgrade.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.register.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.search.resources
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.vbproj.GenerateResource.cache
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.vbproj.CoreCompileInputs.cache
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.exe
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.xml
+C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.pdb
