@@ -30,8 +30,8 @@ Partial Class search
         Me.textboxgetmajor = New System.Windows.Forms.TextBox()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.textboxsearch = New System.Windows.Forms.TextBox()
         Me.btsearch = New System.Windows.Forms.Button()
+        Me.textboxsearch = New System.Windows.Forms.TextBox()
         Me.btclose = New System.Windows.Forms.Button()
         Me.btback = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -105,13 +105,6 @@ Partial Class search
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "กรอกรหัสนักเรียน"
         '
-        'textboxsearch
-        '
-        Me.textboxsearch.Location = New System.Drawing.Point(39, 50)
-        Me.textboxsearch.Name = "textboxsearch"
-        Me.textboxsearch.Size = New System.Drawing.Size(280, 20)
-        Me.textboxsearch.TabIndex = 0
-        '
         'btsearch
         '
         Me.btsearch.Location = New System.Drawing.Point(259, 152)
@@ -120,6 +113,13 @@ Partial Class search
         Me.btsearch.TabIndex = 1
         Me.btsearch.Text = "search"
         Me.btsearch.UseVisualStyleBackColor = True
+        '
+        'textboxsearch
+        '
+        Me.textboxsearch.Location = New System.Drawing.Point(39, 50)
+        Me.textboxsearch.Name = "textboxsearch"
+        Me.textboxsearch.Size = New System.Drawing.Size(280, 20)
+        Me.textboxsearch.TabIndex = 0
         '
         'btclose
         '

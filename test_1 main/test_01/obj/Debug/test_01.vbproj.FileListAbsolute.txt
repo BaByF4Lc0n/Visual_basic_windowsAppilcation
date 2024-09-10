@@ -33,3 +33,21 @@ C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.vbproj.CoreCom
 C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.exe
 C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.xml
 C:\Users\b4byf\source\repos\test_1 main\test_01\obj\Debug\test_01.pdb
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\bin\Debug\student.accdb
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\bin\Debug\test_01.exe.config
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\bin\Debug\test_01.exe
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\bin\Debug\test_01.pdb
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\bin\Debug\test_01.xml
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.vbproj.AssemblyReference.cache
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.login.resources
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.Resources.resources
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.Form1.resources
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.pagecalculator.resources
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.pagecutgrade.resources
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.register.resources
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.search.resources
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.vbproj.GenerateResource.cache
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.vbproj.CoreCompileInputs.cache
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.exe
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.xml
+D:\Repository GITHUB\Visual_basic_windowsAppilcation\test_1 main\test_01\obj\Debug\test_01.pdb
